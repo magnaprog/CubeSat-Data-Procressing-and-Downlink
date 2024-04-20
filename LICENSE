@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+"""
+Image Compression for CubeSat Data Downlink
+
+This script is part of the data processing and downlink solutions for the Bruin Spacecraft Group's Project Rapid. It implements Singular Value Decomposition (SVD) for image compression to facilitate efficient data transmission from CubeSat to ground.
+
+Author: Kevin Lee
+UCLA Aerospace M.S.
+Email: kevinlee69720@g.ucla.edu
+Organization: Bruin Spacecraft Group, UCLA
+
+License: MIT
+"""
